@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it? 
 	There are 0 commits in the beginning. Don't try running git log since there are no commits. To start editing files and sharing them with the github. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is a place to hold commits before they're sent up to the repository. It allows for bundled packages?
